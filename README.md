@@ -1,5 +1,4 @@
-# 关注我的微信公众号学习更多技术
+山东师范大学 移动计算课程 android开发参考资料
 
-<img src="https://raw.githubusercontent.com/guolindev/booksource/master/qrcode.jpg" width="250" />
+<第一行代码源码分析>
 
-如果是对书中源码有疑问，也可以到公众号里给我留言。微信扫一扫上方二维码即可关注。
